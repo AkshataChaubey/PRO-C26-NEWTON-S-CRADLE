@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\C27SA-v4--main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C27SA-v4--main"
+	}
+}
